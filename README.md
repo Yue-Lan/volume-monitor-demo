@@ -8,3 +8,9 @@ For example, when a udisk's device has mounted, it will show a messeage and tray
 qt5-default
 glib-2.0
 gio-2.0
+
+# screenshot
+
+- tray icon and messeage
+
+![udisk-mounted](https://github.com/Yue-Lan/volume-monitor-demo/blob/master/screenshot/1.png)
